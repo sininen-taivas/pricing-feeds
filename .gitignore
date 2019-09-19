@@ -1,0 +1,17 @@
+__pycache__
+*.py[co]
+*.log
+*.pyc
+*.zip
+.idea*
+.DS_Store
+.cache
+activate
+node_modules
+*sublime*
+venv/
+instance/
+.env
+.vscode
+*.txt
+*.json
